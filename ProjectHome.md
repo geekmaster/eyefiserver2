@@ -1,0 +1,1 @@
+This project is now hosted at: https://github.com/dgrant/eyefiserver2
